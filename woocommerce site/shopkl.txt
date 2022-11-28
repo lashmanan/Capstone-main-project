@@ -1,0 +1,6 @@
+Create table Admin(
+Aid int not null primary key,
+Aname varchar(20) not null,
+Aemail varchar(20) not null,
+Password varchar(20) not null
+);
